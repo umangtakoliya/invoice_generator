@@ -1,7 +1,6 @@
-![Screenshot_2023-08-15-01-30-06-98_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/8ffc259d-3862-4a53-86aa-71deaaa606f2)
-![Screenshot_2023-08-15-01-23-02-05_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/a9ae7d9a-2843-42ad-848c-55339fa6d406)
-![Screenshot_2023-08-15-01-22-53-54_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/457166c5-c198-4772-a202-8182287b5547)
-![Screenshot_2023-08-15-01-22-39-38_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/e0a8e34f-7a37-4ef1-92c6-4535cdcfaea2)
-![Screenshot_2023-08-15-01-22-32-32_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/3445acca-76d7-4086-96d9-a7794d78538f)
-![Screenshot_2023-08-15-01-22-26-80_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/5283016d-7cc8-4c20-81b7-8699a1af43a9)
-
+![Screenshot_2023-08-16-10-31-41-27_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/dc99f753-fd0a-422c-9c5f-8e5c14b77229)
+![Screenshot_2023-08-16-10-31-50-30_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/0ff0aebc-3c00-4b23-b08a-f7e0eaa745d1)
+![Screenshot_2023-08-16-10-31-57-67_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/a03c0487-4d26-4191-a660-122d028838cc)
+![Screenshot_2023-08-16-10-32-01-69_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/78fcd7c7-f291-492f-b73a-38502f405d83)
+![Screenshot_2023-08-16-10-32-09-16_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/329b2f9f-8abd-4847-87e9-2d0e99a26fd1)
+![Screenshot_2023-08-16-10-32-14-76_07603d374a2873340ee641a10feab565](https://github.com/umangtakoliya/invoice_generator/assets/138286678/e40eefe2-5b51-4f66-859a-b0abbf12fa9f)
